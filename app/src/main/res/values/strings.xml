@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cpc_10</string>
+    <string name="_1_fragment">1 fragment</string>
+    <string name="_2_fragment">2 fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first">Привет вам, Fragment 2!</string>
+    <string name="second">И наше вам с кисточкой!</string>
+</resources>
